@@ -1,1 +1,1 @@
-# k_means_pass_clustering
+# Clustering Barcelona's passes using K-means
